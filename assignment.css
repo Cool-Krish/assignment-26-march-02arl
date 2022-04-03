@@ -1,0 +1,39 @@
+body{
+    background-color:antiquewhite;
+}
+.arrow-up {
+    width: 0;
+	height: 0;
+    position: relative;
+    top: 260px;
+    left: 450px;
+	border-left: 250px solid transparent;
+	border-right: 250px solid transparent;
+	border-bottom: 200px solid #555;
+  }
+  
+  .arrow-down {
+    width: 0;
+	height: 0;
+    position: relative;
+    top: 1px;
+    left: 450px;
+	border-left: 250px solid transparent;
+	border-right: 250px solid transparent;
+	border-bottom: 200px solid red;
+  }
+  
+  .arrow-right {
+    width: 0;
+	height: 0;
+    position: relative;
+    top: -260px;
+    left: 450px;
+	border-left: 250px solid transparent;
+	border-right: 250px solid transparent;
+	border-bottom: 200px solid green;
+  }
+  
+  
+  
+  
